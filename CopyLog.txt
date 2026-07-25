@@ -1,0 +1,39 @@
+----------------------------------------
+Copy Time : 24-07-2026 10:17:51 PM
+C:\Users\Shree\OneDrive\Desktop\Github\Demo_24_07_2026-13_20_45.txt -> C:\Users\Shree\OneDrive\Desktop\Demo_24_07_2026-13_20_45.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\ABC.txt -> C:\Users\Shree\OneDrive\Desktop\ABC.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\backup_log.txt -> C:\Users\Shree\OneDrive\Desktop\backup_log.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\CopyLog.txt -> C:\Users\Shree\OneDrive\Desktop\CopyLog.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\Demo.txt -> C:\Users\Shree\OneDrive\Desktop\Demo.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\DirectoryCountLog.txt -> C:\Users\Shree\OneDrive\Desktop\DirectoryCountLog.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\FileSizeLog.txt -> C:\Users\Shree\OneDrive\Desktop\FileSizeLog.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\Marvellous.txt -> C:\Users\Shree\OneDrive\Desktop\Marvellous.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\MarvellousLog_24_07_2026_15_38_37.txt -> C:\Users\Shree\OneDrive\Desktop\MarvellousLog_24_07_2026_15_38_37.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\MarvellousLog_24_07_2026_15_38_55.txt -> C:\Users\Shree\OneDrive\Desktop\MarvellousLog_24_07_2026_15_38_55.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\MarvellousLog_24_07_2026_15_39_56.txt -> C:\Users\Shree\OneDrive\Desktop\MarvellousLog_24_07_2026_15_39_56.txt
+----------------------------------------
+Copy Time : 24-07-2026 10:19:44 PM
+C:\Users\Shree\OneDrive\Desktop\Github\Demo_24_07_2026-13_20_45.txt -> C:\Users\Shree\OneDrive\Desktop\Demo_24_07_2026-13_20_45.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\ABC.txt -> C:\Users\Shree\OneDrive\Desktop\ABC.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\backup_log.txt -> C:\Users\Shree\OneDrive\Desktop\backup_log.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\CopyLog.txt -> C:\Users\Shree\OneDrive\Desktop\CopyLog.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\Demo.txt -> C:\Users\Shree\OneDrive\Desktop\Demo.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\DirectoryCountLog.txt -> C:\Users\Shree\OneDrive\Desktop\DirectoryCountLog.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\FileSizeLog.txt -> C:\Users\Shree\OneDrive\Desktop\FileSizeLog.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\Marvellous.txt -> C:\Users\Shree\OneDrive\Desktop\Marvellous.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\MarvellousLog_24_07_2026_15_38_37.txt -> C:\Users\Shree\OneDrive\Desktop\MarvellousLog_24_07_2026_15_38_37.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\MarvellousLog_24_07_2026_15_38_55.txt -> C:\Users\Shree\OneDrive\Desktop\MarvellousLog_24_07_2026_15_38_55.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\MarvellousLog_24_07_2026_15_39_56.txt -> C:\Users\Shree\OneDrive\Desktop\MarvellousLog_24_07_2026_15_39_56.txt
+----------------------------------------
+Copy Time : 24-07-2026 10:29:45 PM
+C:\Users\Shree\OneDrive\Desktop\Github\Demo_24_07_2026-13_20_45.txt -> C:\Users\Shree\OneDrive\Desktop\Demo_24_07_2026-13_20_45.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\ABC.txt -> C:\Users\Shree\OneDrive\Desktop\ABC.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\backup_log.txt -> C:\Users\Shree\OneDrive\Desktop\backup_log.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\CopyLog.txt -> C:\Users\Shree\OneDrive\Desktop\CopyLog.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\Demo.txt -> C:\Users\Shree\OneDrive\Desktop\Demo.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\DirectoryCountLog.txt -> C:\Users\Shree\OneDrive\Desktop\DirectoryCountLog.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\FileSizeLog.txt -> C:\Users\Shree\OneDrive\Desktop\FileSizeLog.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\Marvellous.txt -> C:\Users\Shree\OneDrive\Desktop\Marvellous.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\MarvellousLog_24_07_2026_15_38_37.txt -> C:\Users\Shree\OneDrive\Desktop\MarvellousLog_24_07_2026_15_38_37.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\MarvellousLog_24_07_2026_15_38_55.txt -> C:\Users\Shree\OneDrive\Desktop\MarvellousLog_24_07_2026_15_38_55.txt
+C:\Users\Shree\OneDrive\Desktop\Github\Assignment_2\MarvellousLog_24_07_2026_15_39_56.txt -> C:\Users\Shree\OneDrive\Desktop\MarvellousLog_24_07_2026_15_39_56.txt
