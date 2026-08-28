@@ -1,0 +1,15 @@
+# Replace 'Charlie' with 'Chris' in the 'Name' column
+
+import pandas as pd
+
+data = {
+    'Name' : ['Amit','Sagar','Pooja'],
+    'Math' : [85,90,78],
+    'Science' : [92,88,82],
+    'English' : [75,85,82]
+}
+
+df = pd.DataFrame(data)
+
+df['Name'] = df['Name'].replace('Pooja','Puja')
+print(df)
